@@ -36,9 +36,6 @@
     <profiles>
         <profile>
             <id>openshift</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
             <properties>
                 <spring.profiles.to.activate>openshift</spring.profiles.to.activate>
             </properties>
