@@ -1,4 +1,4 @@
-package com.accenture.openbanking;
+package com.example;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
